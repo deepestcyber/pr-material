@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="62.333279mm"
+   height="70.555283mm"
    id="Invader_3"
    version="1.1"
-   viewBox="0 0 1160.7937 235.59036"
-   width="307.12665mm"
+   viewBox="0 0 1191.8689 266.66565"
+   width="315.34863mm"
    xml:space="preserve"
    sodipodi:docname="lene-thias-sign.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
@@ -32,17 +32,17 @@
      id="namedview238"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="516.33249"
-     inkscape:cy="372.18884"
+     inkscape:cx="290.22167"
+     inkscape:cy="-68.019965"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2"
      units="mm"
-     fit-margin-top="10"
-     fit-margin-left="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10" /><pattern
+     fit-margin-top="14.111"
+     fit-margin-left="14.111"
+     fit-margin-right="14.111"
+     fit-margin-bottom="14.111" /><pattern
      height="69"
      id="Polka_Dot_Pattern"
      patternUnits="userSpaceOnUse"
@@ -375,7 +375,7 @@
      id="layer1"
      inkscape:label="ver0"
      style="display:none"
-     transform="translate(-1.4094488e-6,-6.4324514)"><text
+     transform="translate(15.537636,9.1051766)"><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00050354px;line-height:1.25;font-family:'Yoster Island';-inkscape-font-specification:'Yoster Island';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000632"
    x="129.93542"
@@ -386,6 +386,7 @@
      y="197.56082"
      id="tspan933-7-4"
      style="stroke-width:1.00000632">Mathias Riediger</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -398,6 +399,7 @@
      y="97.561279"
      id="tspan933-7"
      style="letter-spacing:6.6500001px;word-spacing:10px;stroke-width:1.00000632">Lena van Beek</tspan></text>
+
 
 <g
    id="g1044"
@@ -423,44 +425,53 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="ver1"
-     transform="translate(-1.4094488e-6,-6.4324514)"><text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00081635px;line-height:1.25;font-family:'Yoster Island';-inkscape-font-specification:'Yoster Island';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001025"
-   x="157.06189"
-   y="204.22752"
-   id="text931-8-0-9"><tspan
-     sodipodi:role="line"
-     x="157.06189"
+     transform="translate(15.537636,9.1051766)"><rect
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78501004;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="rect948"
+   width="1191.8689"
+   height="266.66562"
+   x="-15.53766"
+   y="-9.1051683" />
+
+
+
+<g
+   id="g958"><text
+     id="text931-8-0-9"
      y="204.22752"
-     id="tspan933-7-4-8"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33354187px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';stroke-width:1.00001025">Mathias Riediger</tspan></text>
-
+     x="157.06189"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00081635px;line-height:1.25;font-family:'Yoster Island';-inkscape-font-specification:'Yoster Island';letter-spacing:0px;word-spacing:0px;fill:#f38856;fill-opacity:1;stroke:none;stroke-width:1.00001025"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33354187px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';fill:#f38856;fill-opacity:1;stroke-width:1.00001025"
+       id="tspan933-7-4-8"
+       y="204.22752"
+       x="157.06189"
+       sodipodi:role="line">Mathias Riediger</tspan></text>
 <text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00019073px;line-height:1.25;font-family:'Yoster Island';-inkscape-font-specification:'Yoster Island';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000238"
-   x="163.73161"
-   y="97.560852"
-   id="text931-8-1"><tspan
-     sodipodi:role="line"
-     x="163.73161"
+     id="text931-8-1"
      y="97.560852"
-     id="tspan933-7-8"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33312225px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';letter-spacing:10px;word-spacing:10px;stroke-width:1.00000238">Lena van Beek</tspan></text>
-
+     x="163.73161"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00019073px;line-height:1.25;font-family:'Yoster Island';-inkscape-font-specification:'Yoster Island';letter-spacing:0px;word-spacing:0px;fill:#f38856;fill-opacity:1;stroke:none;stroke-width:1.00000238"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33312225px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';letter-spacing:10px;word-spacing:10px;fill:#f38856;fill-opacity:1;stroke-width:1.00000238"
+       id="tspan933-7-8"
+       y="97.560852"
+       x="163.73161"
+       sodipodi:role="line">Lena van Beek</tspan></text>
 <path
-   d="m 71.128477,90.894214 h 6.666641 v 6.666635 h -6.666641 z m 13.33328,0 v -6.666645 h -6.666639 v 6.666645 z m 6.666641,6.666635 v -6.666635 h -6.666641 v 6.666635 z m -39.999833,0 h 6.666642 v -6.666635 h -6.666642 z m -13.333288,0 h 6.66664 v -6.666635 h -6.66664 z m 19.99993,-13.33328 v 6.666645 h 13.33327 v -6.666645 z m 19.999911,-6.666635 v 6.666635 h -6.666641 v -6.666635 h -13.33327 v 6.666635 H 51.128565 V 77.560934 H 37.795277 V 64.227652 h 6.66664 v -6.666636 h 6.666648 v -6.66664 h 6.666642 v -6.666649 h 13.33327 v 6.666649 h 6.666641 v 6.66664 h 6.666639 v 6.666636 h 6.666641 V 77.560934 Z M 57.795207,64.227652 h -6.666642 v 6.666646 h 6.666642 z m 19.999911,6.666646 v -6.666646 h -6.666641 v 6.666646 z M 44.461917,84.227569 v 6.666645 h 6.666648 v -6.666645 z"
-   id="path235-22"
-   inkscape:connector-curvature="0"
-   style="stroke-width:0.1904754" /><path
-   d="m 71.128478,197.56046 h 6.66664 v 6.66664 h -6.66664 z m 13.333279,0 v -6.66664 h -6.666639 v 6.66664 z m 6.666641,6.66664 v -6.66664 h -6.666641 v 6.66664 z m -39.999833,0 h 6.666642 v -6.66664 h -6.666642 z m -13.333288,0 h 6.66664 v -6.66664 h -6.66664 z m 19.99993,-13.33328 v 6.66664 h 13.333271 v -6.66664 z m 19.999911,-6.66664 v 6.66664 h -6.66664 v -6.66664 H 57.795207 v 6.66664 h -6.666642 v -6.66664 H 37.795277 V 170.8939 h 6.66664 v -6.66664 h 6.666648 v -6.66663 h 6.666642 v -6.66665 h 13.333271 v 6.66665 h 6.66664 v 6.66663 h 6.666639 v 6.66664 h 6.666641 v 13.33328 z M 57.795207,170.8939 h -6.666642 v 6.66665 h 6.666642 z m 19.999911,6.66665 v -6.66665 h -6.66664 v 6.66665 z m -33.333201,13.33327 v 6.66664 h 6.666648 v -6.66664 z"
-   id="path235-2-1"
-   inkscape:connector-curvature="0"
-   style="stroke-width:0.19047542" /><path
-   d="m 1102.9984,90.894135 h 6.6666 v 6.666609 h -6.6666 z m 13.3332,0 v -6.666618 h -6.6666 v 6.666618 z m 6.6667,6.666609 v -6.666609 h -6.6667 v 6.666609 z m -39.9997,0 h 6.6666 v -6.666609 h -6.6666 z m -13.3332,0 h 6.6666 v -6.666609 h -6.6666 z m 19.9998,-13.333227 v 6.666618 h 13.3332 v -6.666618 z m 19.9998,-6.666609 v 6.666609 h -6.6666 v -6.666609 h -13.3332 v 6.666609 h -6.6666 v -6.666609 h -13.3332 v -13.33323 h 6.6666 v -6.666611 h 6.6666 v -6.666613 h 6.6666 v -6.666623 h 13.3332 v 6.666623 h 6.6666 v 6.666613 h 6.6666 v 6.666611 h 6.6667 v 13.33323 z m -19.9998,-13.33323 h -6.6666 v 6.666619 h 6.6666 z m 19.9998,6.666619 v -6.666619 h -6.6666 v 6.666619 z m -33.333,13.33322 v 6.666618 h 6.6666 v -6.666618 z"
-   id="path235-7-6"
-   inkscape:connector-curvature="0"
-   style="stroke-width:0.19047467" /><path
-   d="m 1102.9984,197.56028 h 6.6666 v 6.66662 h -6.6666 z m 13.3333,0 v -6.66661 h -6.6667 v 6.66661 z m 6.6666,6.66662 v -6.66662 h -6.6666 v 6.66662 z m -39.9997,0 h 6.6666 v -6.66662 h -6.6666 z m -13.3332,0 h 6.6666 v -6.66662 h -6.6666 z m 19.9998,-13.33323 v 6.66661 h 13.3332 v -6.66661 z m 19.9998,-6.66662 v 6.66662 h -6.6666 v -6.66662 h -13.3332 v 6.66662 h -6.6666 v -6.66662 h -13.3332 v -13.33323 h 6.6666 v -6.66661 h 6.6666 v -6.66662 h 6.6666 v -6.66661 h 13.3332 v 6.66661 h 6.6666 v 6.66662 h 6.6667 v 6.66661 h 6.6666 v 13.33323 z m -19.9998,-13.33323 h -6.6666 v 6.66662 h 6.6666 z m 19.9998,6.66662 v -6.66662 h -6.6666 v 6.66662 z m -33.333,13.33323 v 6.66661 h 6.6666 v -6.66661 z"
-   id="path235-2-9-1"
-   inkscape:connector-curvature="0"
-   style="stroke-width:0.19047473" /></g></svg>
+     style="fill:#f38856;fill-opacity:1;stroke:none;stroke-width:0.1904754;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path235-22"
+     d="m 71.128477,90.894214 h 6.666641 v 6.666635 h -6.666641 z m 13.33328,0 v -6.666645 h -6.666639 v 6.666645 z m 6.666641,6.666635 v -6.666635 h -6.666641 v 6.666635 z m -39.999833,0 h 6.666642 v -6.666635 h -6.666642 z m -13.333288,0 h 6.66664 v -6.666635 h -6.66664 z m 19.99993,-13.33328 v 6.666645 h 13.33327 v -6.666645 z m 19.999911,-6.666635 v 6.666635 h -6.666641 v -6.666635 h -13.33327 v 6.666635 H 51.128565 V 77.560934 H 37.795277 V 64.227652 h 6.66664 v -6.666636 h 6.666648 v -6.66664 h 6.666642 v -6.666649 h 13.33327 v 6.666649 h 6.666641 v 6.66664 h 6.666639 v 6.666636 h 6.666641 V 77.560934 Z M 57.795207,64.227652 h -6.666642 v 6.666646 h 6.666642 z m 19.999911,6.666646 v -6.666646 h -6.666641 v 6.666646 z M 44.461917,84.227569 v 6.666645 h 6.666648 v -6.666645 z" /><path
+     style="fill:#f38856;fill-opacity:1;stroke:none;stroke-width:0.19047542;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path235-2-1"
+     d="m 71.128478,197.56046 h 6.66664 v 6.66664 h -6.66664 z m 13.333279,0 v -6.66664 h -6.666639 v 6.66664 z m 6.666641,6.66664 v -6.66664 h -6.666641 v 6.66664 z m -39.999833,0 h 6.666642 v -6.66664 h -6.666642 z m -13.333288,0 h 6.66664 v -6.66664 h -6.66664 z m 19.99993,-13.33328 v 6.66664 h 13.333271 v -6.66664 z m 19.999911,-6.66664 v 6.66664 h -6.66664 v -6.66664 H 57.795207 v 6.66664 h -6.666642 v -6.66664 H 37.795277 V 170.8939 h 6.66664 v -6.66664 h 6.666648 v -6.66663 h 6.666642 v -6.66665 h 13.333271 v 6.66665 h 6.66664 v 6.66663 h 6.666639 v 6.66664 h 6.666641 v 13.33328 z M 57.795207,170.8939 h -6.666642 v 6.66665 h 6.666642 z m 19.999911,6.66665 v -6.66665 h -6.66664 v 6.66665 z m -33.333201,13.33327 v 6.66664 h 6.666648 v -6.66664 z" /><path
+     style="fill:#f38856;fill-opacity:1;stroke:none;stroke-width:0.19047467;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path235-7-6"
+     d="m 1102.9984,90.894135 h 6.6666 v 6.666609 h -6.6666 z m 13.3332,0 v -6.666618 h -6.6666 v 6.666618 z m 6.6667,6.666609 v -6.666609 h -6.6667 v 6.666609 z m -39.9997,0 h 6.6666 v -6.666609 h -6.6666 z m -13.3332,0 h 6.6666 v -6.666609 h -6.6666 z m 19.9998,-13.333227 v 6.666618 h 13.3332 v -6.666618 z m 19.9998,-6.666609 v 6.666609 h -6.6666 v -6.666609 h -13.3332 v 6.666609 h -6.6666 v -6.666609 h -13.3332 v -13.33323 h 6.6666 v -6.666611 h 6.6666 v -6.666613 h 6.6666 v -6.666623 h 13.3332 v 6.666623 h 6.6666 v 6.666613 h 6.6666 v 6.666611 h 6.6667 v 13.33323 z m -19.9998,-13.33323 h -6.6666 v 6.666619 h 6.6666 z m 19.9998,6.666619 v -6.666619 h -6.6666 v 6.666619 z m -33.333,13.33322 v 6.666618 h 6.6666 v -6.666618 z" /><path
+     style="fill:#f38856;fill-opacity:1;stroke:none;stroke-width:0.19047473;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path235-2-9-1"
+     d="m 1102.9984,197.56028 h 6.6666 v 6.66662 h -6.6666 z m 13.3333,0 v -6.66661 h -6.6667 v 6.66661 z m 6.6666,6.66662 v -6.66662 h -6.6666 v 6.66662 z m -39.9997,0 h 6.6666 v -6.66662 h -6.6666 z m -13.3332,0 h 6.6666 v -6.66662 h -6.6666 z m 19.9998,-13.33323 v 6.66661 h 13.3332 v -6.66661 z m 19.9998,-6.66662 v 6.66662 h -6.6666 v -6.66662 h -13.3332 v 6.66662 h -6.6666 v -6.66662 h -13.3332 v -13.33323 h 6.6666 v -6.66661 h 6.6666 v -6.66662 h 6.6666 v -6.66661 h 13.3332 v 6.66661 h 6.6666 v 6.66662 h 6.6667 v 6.66661 h 6.6666 v 13.33323 z m -19.9998,-13.33323 h -6.6666 v 6.66662 h 6.6666 z m 19.9998,6.66662 v -6.66662 h -6.6666 v 6.66662 z m -33.333,13.33323 v 6.66661 h 6.6666 v -6.66661 z" /></g></g></svg>
