@@ -1,0 +1,9 @@
+
+basis: 58x58x88.5
+expansion: 35x58x88.5
+expansion: 34.5x58x88.5
+
+basis+2+trennholz: 95x58x88.5
+
+6; 13.5x88.5x112
+6: 12x58x88.5
