@@ -33,15 +33,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    showgrid="false"
-   inkscape:zoom="0.70710678"
-   inkscape:cx="-398.05535"
-   inkscape:cy="1350.3047"
-   inkscape:window-width="2880"
-   inkscape:window-height="1531"
+   inkscape:zoom="0.35355339"
+   inkscape:cx="-1184.05"
+   inkscape:cy="1699.8603"
+   inkscape:window-width="1920"
+   inkscape:window-height="1080"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="g6221"
+   inkscape:current-layer="layer9"
    inkscape:snap-bbox="true"
    inkscape:snap-bbox-midpoints="true"
    inkscape:measure-start="1018,1418"
@@ -53,6 +53,7 @@
    inkscape:snap-object-midpoints="false"
    inkscape:snap-others="false"
    inkscape:snap-global="true" />
+
 
 
 
@@ -2537,7 +2538,7 @@
    id="layer2"
    inkscape:label="large"
    transform="translate(0,353)"
-   style="display:inline"
+   style="display:none"
    sodipodi:insensitive="true">
   <g
      id="g3776">
@@ -4373,7 +4374,7 @@
    inkscape:groupmode="layer"
    id="layer4"
    inkscape:label="large plugs adaptation"
-   style="display:inline"
+   style="display:none"
    transform="translate(0,56)"
    sodipodi:insensitive="true">
   <g
@@ -6221,7 +6222,7 @@
    inkscape:groupmode="layer"
    id="layer1"
    transform="translate(0,353)"
-   style="display:none"
+   style="display:inline"
    sodipodi:insensitive="true">
   <g
      id="g4810">
@@ -7971,6 +7972,41 @@
      cx="86.52494"
      cy="311.0769"
      r="2.04" />
+</g>
+<g
+   inkscape:groupmode="layer"
+   id="layer9"
+   inkscape:label="small leds cables"
+   style="display:none">
+  <rect
+     style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.16;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect6392"
+     width="10.869918"
+     height="4.8699179"
+     x="81.089874"
+     y="488.64038" />
+  <rect
+     style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.16;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1881"
+     width="19.654966"
+     height="10.986507"
+     x="76.69735"
+     y="125.58187"
+     ry="4.8699193" />
+</g>
+<g
+   inkscape:groupmode="layer"
+   id="layer10"
+   inkscape:label="small leds ir"
+   style="display:none">
+  <rect
+     style="display:inline;opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.16;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1881-9"
+     width="5.2379408"
+     height="6.5379405"
+     x="83.905861"
+     y="127.80615"
+     ry="2.5999999" />
 </g>
 <g
    inkscape:groupmode="layer"
